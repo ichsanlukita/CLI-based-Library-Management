@@ -1,4 +1,4 @@
-# Capstone Project - MODULE 1 - Library Application
+# CLI Based Algorithm
 
 
 # These library applications is A command-line interface (CLI) is a text-based user interface (UI) used to run programs
