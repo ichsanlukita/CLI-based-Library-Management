@@ -8,11 +8,13 @@ Here's your improved **README** with better **styling, formatting, and structure
 This project is a **Library Management System** implemented as a **Command-Line Interface (CLI) simulation game**. It is **not a real application** but serves as a demonstration of my ability to code in **Python**. 
 
 The purpose of this project is to **showcase my programming skills** in:
+
 ✅ Handling **user input**  
 ✅ **Data storage** and retrieval  
 ✅ Implementing **CRUD (Create, Read, Update, Delete) operations**  
 
-⚠️ Limitations
+⚠️ Limitations:
+
 ❌ No database – Data resets when the script is restarted.
 ❌ No user authentication – Anyone can perform all operations.
 ❌ Basic error handling – Input validation is implemented but limited.
